@@ -22,39 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Lead Research Scientist
-    company: Discover Financial Services
+  - title: Research Intern
+    company: SpinCityLab
     company_url: ''
     company_logo:
-    location: Chicago
-    date_start: '2022-05-01'
+    location: 
+    date_start: '2024-11-01'
     date_end: ''
     description:
         
-  - title: Investment Research Analyst
-    company: Mass PRIM
+  - title: Laboratory Technician II
+    company: Boehringer Ingelheim
     company_url: ''
     company_logo:
-    location: Massachussets
-    date_start: '2020-11-01'
-    date_end: '2022-03-01'
-    description:
-        
-  - title: Machine Learning Researcher
-    company: Boston Fusion Corp.
-    company_url: ''
-    company_logo:
-    location: Massachussets
-    date_start: '2020-01-01'
-    date_end: '2020-11-01'
-    description: 
-  - title: Research Assistant
-    company: University of Cape Town
-    company_url: ''
-    company_logo:
-    location: South Africa
-    date_start: '2017-08-01'
-    date_end: '2019-12-01'
+    location: Georgia
+    date_start: '2018-06-01'
+    date_end: '2022-12-01'
     description:
 
 design:
