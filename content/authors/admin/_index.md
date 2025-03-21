@@ -6,7 +6,7 @@ first_name: Cyrille
 last_name: Yelibi
 
 status:
-  icon: 😎
+  icon: 👌
 
 # Is this the primary user of the site?
 superuser: true
